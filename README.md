@@ -31,9 +31,8 @@ The dataset includes:
 
 ## 🛠️ Tools & Technologies
 
-- **SQL** – PostgreSQL was used for querying, aggregating, and analyzing the data
-- **DB Tools** – pgAdmin / DBeaver (or your preferred IDE)
-- **Excel** – Initial data cleanup (if applicable)
+- **SQL** – MySQL Workbench was used for querying, aggregating, and analyzing the data
+- **Excel** – Initially used for viewing and understanding the dataset
 - **Wix Blog** – Final insights published online
 
 ## 📈 Key Insights
@@ -49,7 +48,6 @@ A full breakdown of the analysis, visualizations, and conclusions can be found i
 
 🔗 [Read the full blog here](https://felixochola.wixsite.com/ochola-felix/post/amazon-delivery-analysis-using-sql)
 
-## 📁 Folder Structure
 
 ## 🧠 Skills Demonstrated
 
@@ -62,16 +60,9 @@ A full breakdown of the analysis, visualizations, and conclusions can be found i
 ## 🧑‍💼 About Me
 
 **Mr. Ochola Felix**  
-📧 legacyxiq@gmail.com  
+📧 felix.ochola1@outlook.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ochola-felix)  
 🎯 Aspiring Data Analyst | SQL • Excel • Power BI • Tableau • Python  
 
----
-
-## ⭐ Recommendations
-
-- Include your `queries.sql` file in the repo
-- Add any screenshots to a `screenshots/` folder
-- Link this project in your main portfolio README under **SQL Projects**
 
 

@@ -1,6 +1,4 @@
-# Amazon-Delivery-Analysis-Using-SQL
-The project explores a dataset of amazon delivery data from the time it was ordered, l created a database and used SQL in MySQL work bench to explore the data and make analysis on it 
-# 📦 Amazon Delivery Analysis Using SQL
+ # 📦 Amazon Delivery Analysis Using SQL
 
 This project presents a data-driven analysis of Amazon delivery performance using SQL. The goal was to uncover key insights that can help improve delivery efficiency, understand regional delivery behavior, and support business decisions.
 
